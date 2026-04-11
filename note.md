@@ -9,7 +9,8 @@
 **2.  Scanning**
 
         sudo nmap -sC -sV -Pn -vv 10.150.150.11
-    <img width="940" height="676" alt="image" src="https://github.com/user-attachments/assets/2e5bf773-3bb6-42a0-88bb-de7a605d12da" />
+
+<img width="940" height="676" alt="image" src="https://github.com/user-attachments/assets/2e5bf773-3bb6-42a0-88bb-de7a605d12da" />
 
   Identified Port 80 running Apache httpd 2.4.46. This confirmed that a web server was active.
   
